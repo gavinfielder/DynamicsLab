@@ -1,4 +1,4 @@
-﻿
+
 # DynamicsLab
 DynamicsLab is a dynamical systems numerical solver and VR simulator. It can accept user-defined systems of differential equations and render or animate their behavior.
 
@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=iGbwT3sJTn8
 https://www.youtube.com/watch?v=Jw1-l80Kvmc
 ## Technical
 Design documentation is located in ~/documentation/
+
+## Acknowledgements
+The original team of software engineers at CSU Chico includes Alex Elson, Gavin Fielder, Ryan Lynn, Matthew Johnson , and Joshua Thurston.
