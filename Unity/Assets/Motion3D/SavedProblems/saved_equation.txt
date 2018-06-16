@@ -1,0 +1,3 @@
+x*sin(t)
+y*cos(t)
+z*sin(t)

@@ -1,0 +1,10 @@
+3D Van der Pol Oscillator
+An application of the Van der Pol Oscillation equations in second order that oscillates in 3D space.
+mu*(1-x^2)*x'-x
+0.8*mu*(1-y^2)*y'-y
+1.33*mu*(1-z^2)*z'-z
+2
+mu
+0.1
+
+-6,2,8,-1,4,-0.5

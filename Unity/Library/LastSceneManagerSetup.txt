@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Motion3D/3dMotion.unity
+  isLoaded: 1
+  isActive: 1
